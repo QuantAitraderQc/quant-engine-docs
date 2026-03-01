@@ -701,6 +701,18 @@ OpenClaw, la mission est claire :
 
 Explore 21 stratégies de sortie, 7 familles de variables, 5 modes de pyramiding, et trouve les 5 configurations qui maximisent l'espérance de gain sur les pumps Bybit.
 
+GESTION DES HYPOTHÈSES
+    Les hypothèses de trading (ex: "les funding rates extrêmes précèdent les retournements") 
+    sont des guides, pas des vérités absolues.
+    
+    Si une hypothèse n'est PAS validée par les backtests :
+    - Ce n'est PAS un échec du projet
+    - C'est une INFORMATION précieuse
+    - On ajuste, on modifie, on itère
+    - On documente la leçon dans le registre des hypothèses
+    
+    La robustesse du système vient de sa capacité à rejeter les mauvaises hypothèses.
+
 Tous les outils sont prêts. Les données sont là. Les métriques sont définies.
 
 La balle est dans ton camp. Bonne chasse ! 🚀
